@@ -1,0 +1,5 @@
+Use oncore_get_type to discover the third argument
+for oncore_parse, which returns a void pointer to
+the appropriate struct. The type oncore_msg is
+enumerated as oncore_msg; use the values in
+oncore.h.
